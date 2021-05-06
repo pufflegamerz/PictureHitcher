@@ -1,2 +1,2 @@
 # PictureHitcher
-The website is comming soon. I'm working on the php login script.
+The website is coming soon. I'm working on the php login script.
